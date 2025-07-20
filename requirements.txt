@@ -1,3 +1,4 @@
+plotly
 Scikit-learn
 pandas
 numpy
@@ -5,4 +6,3 @@ matplotlib
 seaborn
 streamlit
 streamlit_option_menu
-plotly
